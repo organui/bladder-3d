@@ -1,0 +1,13 @@
+concept id	name (parts_list_e.txt)
+FMA15900	urinary bladder
+FMA15571	right ureter
+FMA15572	left ureter
+FMA19667	urethra
+FMA9600	prostate
+FMA19387	right seminal vesicle
+FMA19388	left seminal vesicle
+FMA45854	right pubococcygeus
+FMA45855	left pubococcygeus
+FMA45856	right puborectalis
+FMA45857	left puborectalis
+FMA14544	rectum
